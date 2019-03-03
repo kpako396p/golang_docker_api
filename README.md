@@ -1,0 +1,1 @@
+## Client-server app for Docker containers orchestration
